@@ -1,0 +1,64 @@
+.bi-plus-circle-fill{
+    top:-15px;
+    left:300px;
+    position:absolute;
+    font-size: xx-large;
+    color: rgb(35, 35, 182);
+}
+
+.bi-caret-left{
+    position: absolute;
+    left:10px;
+    top:-10px;
+    font-size: x-large;
+}
+.add-habit{
+    font-size: small;
+    position:absolute;
+    left:280px;
+    top:65%;
+    
+}
+.back-text{
+    position:absolute;
+    font-size: small;
+    margin-left: 30px;
+    top:0px;
+    display: inline-block;
+}
+li{
+    padding:0;
+    display:inline-block
+
+
+}
+.delete-area{
+    position:absolute;
+    left:270px;
+    top:0;
+    bottom:0;
+    width:80px;
+    background-color: red;
+    color: white;
+    font-size: large;
+    display: inline-block;
+    text-align: center;
+   
+}
+.delete{
+    position:relative;
+    top:15%;
+    margin:0;
+    
+
+}
+.bi-grip-horizontal{
+    position: absolute;
+    left:240px;
+    top:2%;
+    font-size: x-large;
+}
+.null{
+    height:0px;
+    width:0px;
+}

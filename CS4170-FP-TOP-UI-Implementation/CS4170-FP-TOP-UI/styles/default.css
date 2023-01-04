@@ -1,0 +1,86 @@
+body{
+    background-color: black;
+}
+#main-screen{
+    margin:auto;
+    align-self: center;
+    height: 812px;
+    width: 420px;
+    background-image: url("../assets/iphone-screen.jpg");  
+    z-index: 1;
+}
+
+#top-region{
+    position:relative;
+    top: 73px;
+    left:43px;
+    height: 80px;
+    width: 350px;
+    border-width: 2pt;
+
+}
+#bottom-region{
+    position:relative;
+    top:7%;
+    height: 50px;
+    width: 350px;
+    left:43px;
+    border-width: 2pt;
+   
+}
+
+#main-region{
+    
+    position:relative;
+    height: 580px;
+    width: 350px;
+    top: 9%;
+    left: 5%;
+    left:42px;
+}
+
+#top-text-content{
+    position: relative;
+    left: 3%;
+    top: 0px;
+    text-align: center;
+    
+  
+}
+
+.bottom-icons{
+    position:relative;
+    top:30%;
+    width: 350px
+
+ }
+ .bottom-icons-text{
+   
+    position:relative;
+    top:15%;
+    width: 350px
+ }
+table{
+    table-layout: fixed;
+}
+ td{
+     top:10%  ; 
+     padding-top: 1 rem;
+     text-align: center;
+     vertical-align: middle;
+ }
+ .icon-text{
+     font-size: xx-small;
+    
+ }
+ .bi-check-circle-fill{
+     font-size: xx-large;
+ }
+.bi-circle{
+    font-size: xx-large;
+}
+.active{
+    color: blue;
+    font-weight:700;
+    
+}

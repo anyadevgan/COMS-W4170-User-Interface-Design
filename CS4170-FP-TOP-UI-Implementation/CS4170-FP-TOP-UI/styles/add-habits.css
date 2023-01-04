@@ -1,0 +1,97 @@
+#add-habits-text{
+    font-size: x-small;
+    position:relative;
+    top:30px;
+    left:10px;
+}
+
+.btn-primary {
+    background-color: transparent;
+    border: 0px;
+    top: 27px;
+}
+
+.bi-plus-circle-fill{
+    top:12px;
+    left:300px;
+    position:absolute;
+    font-size: xx-large;
+    color: rgb(0, 0, 0);
+}
+
+
+.bi-caret-down-fill {
+    left: 87%;
+}
+
+.bi-caret-left{position: absolute;
+    left:10px;
+    top:-10px;
+    font-size: x-large;
+}
+.add-custom{
+    font-size: xx-small;
+    position:absolute;
+    left:285px;
+    width: 60px;
+    border: 0px solid red;
+    top:55px;
+    line-height: 10px;
+    text-align: center;
+    color:rgb(0,0,0);
+}
+
+
+.back-text{
+    position:absolute;
+    font-size: small;
+    margin-left: 30px;
+    top:0px;
+    display: inline-block;
+}
+.add-new{
+    position: absolute;
+     left: 300px;
+     color:rgb(58, 223, 58);
+     font-size: x-large;
+     top:0%
+
+}
+.trash{
+    position: absolute;
+     left: 300px;
+     top:-5%;
+    color:red;
+    font-size: x-large ;
+}
+.null{
+    height:0px;
+    width:0px;
+}
+
+
+.list-group {
+    margin-top: -15px;
+    color:red;
+}
+
+#top-text-content{
+    position: relative;
+    left: 3%;
+    top: 30px;
+    text-align: center;
+}
+
+.list-group-item {
+    top: 20px;
+}
+
+#bottom-region{
+    position:relative;
+    top:7.5%;
+    height: 50px;
+    width: 350px;
+    left:43px;
+    border-width: 2pt;
+   
+}

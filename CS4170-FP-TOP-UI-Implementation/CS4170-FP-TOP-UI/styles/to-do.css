@@ -1,0 +1,61 @@
+.hamburger{
+    position:relative;
+    top: 5%;
+    left: 5%;
+    font-size: x-large;
+}
+a {
+    position:relative;
+    top:10%;
+    display: block;
+    padding: 5px;
+  }
+li{
+      margin-bottom:5px;
+  }
+ .check{
+     position: absolute;
+     left: 300px;
+ } 
+
+ .routine{
+     width:350px;
+     background-color: white;
+     font-weight: 700;
+     color: black;
+     border-color: white;
+     text-align: left;   
+ }
+ .edit{
+     color: rgb(0, 0, 0);
+     position: absolute;
+     left: 306px;
+    top: -10px;
+    font-size: large;
+ }
+.bi-check-circle-fill{
+    color: rgb(58, 223, 58);
+    top:-10%
+ }
+
+ .bi-caret-down-fill{
+    position: absolute;
+    left: 300px;
+    
+
+ }
+.bi-circle{
+    top:-10%
+}
+.edit-routine-text{
+    font-size: xx-small;
+    position:absolute;
+    left:306px;
+    top:75%
+
+}
+.link-active{
+    height: fit-content;
+    padding:0px;
+    margin:0px;
+}

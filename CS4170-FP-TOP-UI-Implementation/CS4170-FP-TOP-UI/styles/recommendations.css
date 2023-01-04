@@ -1,0 +1,29 @@
+.hamburger{
+    position:relative;
+    top: 5%;
+    left: 5%;
+    font-size: x-large;
+}
+#top-text-content{
+    position: relative;
+    left: 20%;
+    top: 20px;
+    text-align: center;
+}
+#carousel{
+    top:20%;
+}
+.main-text{
+    position: relative;
+    margin:auto;
+    left: 15%;
+    top:10%;
+    text-align:justify;
+    text-justify:inter-cluster;
+    font-weight: 700;
+}
+.nxt{
+    left:20%
+}
+
+
